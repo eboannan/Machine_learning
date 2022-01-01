@@ -18,9 +18,9 @@ There will be two parts to this repository: high-level and from-scratch implemen
 + Physics-informed neural networks
 + Graph-neural networks
 + Special architectures
-++ Resnets
-++ Densenets
-++ Transformers
++ + Resnets
++ + Densenets
++ + Transformers
 
 ## From-scratch implementation
 + Gradient-descent
