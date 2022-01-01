@@ -25,12 +25,12 @@ There will be two parts to this repository: high-level and from-scratch implemen
 ## From-scratch implementation
 + Gradient-descent
 + activation functions
-- Sigmoid
-++ Tanh
-++ ReLU and varients
+  + Sigmoid
+  + Tanh
+  + ReLU and varients
 + optimizers
-++ Adam and varients
-++ Stochastic gradient descent (SGD)
+  + Adam and varients
+  + Stochastic gradient descent (SGD)
 + Batch normalization
 + Shallow nerual networks
 + Convolutional neural networks
