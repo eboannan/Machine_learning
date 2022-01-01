@@ -25,7 +25,7 @@ There will be two parts to this repository: high-level and from-scratch implemen
 ## From-scratch implementation
 + Gradient-descent
 + activation functions
-++ Sigmoid
+- Sigmoid
 ++ Tanh
 ++ ReLU and varients
 + optimizers
